@@ -1,0 +1,4 @@
+# Set all files to use LF for line endings
+* text=auto
+*.jsx text eol=lf
+*.css text eol=lf
